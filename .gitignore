@@ -1,0 +1,7 @@
+*.hex
+*.eep.hex
+*.list
+*.cof
+*.map
+*.obj
+eeprom_dumps/
